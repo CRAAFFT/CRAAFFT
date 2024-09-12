@@ -1,3 +1,3 @@
 # KnowRise
 
-# HELLO There!
+HELLO There!
