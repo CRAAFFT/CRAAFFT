@@ -1,7 +1,7 @@
-<h1 align="center"> GitPoint </h1> <br>
+<h1 align="center"> KnowRise </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="http://i.imgur.com/VShxJHs.png" width="450">
+    <img alt="GitPoint" title="GitPoint" src="src="https://instagram.fbdo9-1.fna.fbcdn.net/v/t51.29350-15/440774610_1138625277385874_1083294697504282091_n.heic?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi41MDB4NTAwLnNkci5mMjkzNTAuZGVmYXVsdF9pbWFnZSJ9&_nc_ht=instagram.fbdo9-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=CG4vAdFDtCEQ7kNvgF97q1u&edm=AEhyXUkBAAAA&ccb=7-5&ig_cache_key=MzM1NDU4NjAzMTMyNzkxODgzOQ%3D%3D.3-ccb7-5&oh=00_AYDN87czBEnLAMpmKYQ4d71WpYHW-ACycldGsvHk8QY0dw&oe=66E85F58&_nc_sid=8f1549" width="450">
   </a>
 </p>
 
